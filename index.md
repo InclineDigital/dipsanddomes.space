@@ -3,6 +3,7 @@
 
 Test:
 
+<div>
 <script async src="//"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
@@ -10,3 +11,4 @@ Test:
     enable_page_level_ads: true
   });
 </script>
+</div>
