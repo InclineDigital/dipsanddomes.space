@@ -1,3 +1,9 @@
-title: Dips and Domes
+name: Dips and Domes
+title: Dips and Domes - A new theory of space
 description: A new theory of space
-theme: jekyll-theme-cayman
+sass:
+  # loading path from site root
+  # default to _sass
+  sass_dir: bower_components/bootstrap/scss
+  style: compressed
+exclude: ['assets/source-images']
