@@ -60,7 +60,7 @@ The reason is  the light from the supernovae passed through one or more voids in
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-9432937364329878",
+    google_ad_client: "ca-pub-5576601155111927",
     enable_page_level_ads: true
   });
 </script>
