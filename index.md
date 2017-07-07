@@ -9,8 +9,8 @@ description: Explains the mismatch between brightness and red shift of distant s
 <section class="synopsis" markdown="1">
 ## Synopsis: 
 
-Far distant nova appear dimmer than their redshift distance would indicate. 
-This discovery led to the theory of dark energy. There is a reason the nova appear dimmer. 
+Far distant nova appear dimmer than their [redshift](https://en.wikipedia.org/wiki/Redshift) distance would indicate. 
+This discovery led to the [theory of dark energy](https://en.wikipedia.org/wiki/Dark_energy). There is a reason the nova appear dimmer. 
 Gravitational lens have an effect on celestial brightness. 
 Galaxy clusters create a convex gravitational lens making objects behind them brighter. 
 The convex lens concentrates light. 
@@ -49,7 +49,7 @@ The point of this document is to suggest that a space time dome acts differently
 The dome would act as a concave lens and disperse light. 
 This would make objects behind it appear dimmer and smaller.
 
-The distances of far distant objects were measured using the redshift method and the type Ia supernovae method. 
+The distances of far distant objects were measured using the redshift method and the [type Ia supernovae method](https://en.wikipedia.org/wiki/Type_Ia_supernova#Light_curve). 
 The supernovas were dimmer than the redshift method would predict. 
 The difference does not require acceleration of the expansion rate of the universe verse. 
 The reason is  the light from the supernovae passed through one or more voids in the cosmos and appears dimmer as a result.
