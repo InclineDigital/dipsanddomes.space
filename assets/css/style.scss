@@ -94,6 +94,14 @@ ol, ul, dl {
 }
 
 
+.about {
+  background-color: #eee;
+  padding: 2em 3em;
+  h3 { margin-top: 0;}
+  img { margin-left: 2em; }
+}
+
+
 footer {
   @extend .light-text;
   padding: 3rem 0;
