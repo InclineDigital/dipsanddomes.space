@@ -7,3 +7,4 @@ sass:
   sass_dir: bower_components/bootstrap/scss
   style: compressed
 exclude: ['assets/source-images']
+google_analytics: UA-102337052-1
