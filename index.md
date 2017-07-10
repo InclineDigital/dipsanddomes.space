@@ -25,6 +25,14 @@ In 1997, two separate teams studied far distant galaxies and measured their dist
 <section class="theory" markdown="1">
 # Dips and Domes
 
+<aside class="graphs" markdown="1">
+
+![Dip](assets/images/dip.jpg)
+
+![Dome](assets/images/dome.jpg)
+
+</aside>
+
 There is another reason that the galaxies are dimmer than what the redshift distance would indicate.
 
 Diagrams of the space time deformation due the presence of a massive body often look like a bowling ball on a trampoline. 

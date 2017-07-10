@@ -94,6 +94,18 @@ ol, ul, dl {
 }
 
 
+.graphs {
+  img {
+    @extend .img-thumbnail;
+    @extend .img-fluid;
+  }
+  @media (min-width: map-get($grid-breakpoints, sm)) {
+    float: right;
+    margin-left: 2em;
+    margin-bottom: 1em;
+  }
+}
+
 .about {
   background-color: #eee;
   padding: 2em 3em;
