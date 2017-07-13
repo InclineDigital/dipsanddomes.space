@@ -19,7 +19,6 @@ The concave lens disperses light.
 The far distant nova are dimmer than they would be, if their light had not passed through cosmic voids. 
 Dark energy causing acceleration of the expansion rate of the universe is not required to explain the dimmer nova.
 
-In 1997, two separate teams studied far distant galaxies and measured their distances using two different methods, red shift and the brightness of type Ia supernovae. The type Ia supernovae distance measurement was farther away than the red shift indicated. The discrepancy indicated that the expansion rate of the universe is accelerating. The accepted theory to explain the acceleration is dark energy.
 </section>
 
 <section class="theory" markdown="1">
@@ -32,6 +31,8 @@ In 1997, two separate teams studied far distant galaxies and measured their dist
 ![Dome](assets/images/dome.jpg)
 
 </aside>
+
+In 1997, two separate teams studied far distant galaxies and measured their distances using two different methods, red shift and the brightness of type Ia supernovae. The type Ia supernovae distance measurement was farther away than the red shift indicated. The discrepancy indicated that the expansion rate of the universe is accelerating. The accepted theory to explain the acceleration is dark energy.
 
 There is another reason that the galaxies are dimmer than what the redshift distance would indicate.
 
