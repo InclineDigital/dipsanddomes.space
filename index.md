@@ -2,7 +2,7 @@
 title: Dips and Domes - The Universe is a Gravitational Lens
 headline: Dips and Domes
 subheadline: The Universe is a Gravitational Lens
-description: A new theory of space that the mismatch between brightness and red shift of distant stars without the need for dark energy.
+description: A new theory of space that explains the mismatch between brightness and red shift of distant stars without the need for dark energy.
 ---
 
 
