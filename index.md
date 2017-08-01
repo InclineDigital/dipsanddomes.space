@@ -1,7 +1,7 @@
 ---
-title: Dips and Domes - The Universe is a Gravitational Lens
-headline: Dips and Domes
-subheadline: The Universe is a Gravitational Lens
+title: Dark Energy Not Required - Light from Type 1a Supernova is Dimmed by Concave Gravitational Lens
+headline: Dark Energy Not Required
+subheadline: Light from Type 1a Supernova is Dimmed by Concave Gravitational Lens
 description: A new theory of space that explains the mismatch between brightness and red shift of distant stars without the need for dark energy.
 ---
 
