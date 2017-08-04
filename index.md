@@ -60,7 +60,7 @@ This would make objects behind it appear dimmer and smaller.
 
 The distances of far distant objects were measured using the redshift method and the [type Ia supernovae method](https://en.wikipedia.org/wiki/Type_Ia_supernova#Light_curve). 
 The supernovas were dimmer than the redshift method would predict. 
-The difference does not require acceleration of the expansion rate of the universe verse. 
+The difference does not require acceleration of the expansion rate of the universe. 
 The reason is  the light from the supernovae passed through one or more voids in the cosmos and appears dimmer as a result.
 </section>
 
